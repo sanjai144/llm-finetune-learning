@@ -10,7 +10,26 @@ Fine-tuning TinyLlama on custom datasets to learn AI/ML fundamentals.
 - Build a strong portfolio project for college admissions
 
 ## 📊 Current Status
-🚀 **Phase 1: Project Setup** ✅
+
+## 🚀 Status: Phase 1 Complete
+**Phase 1 was successfully completed within two days** of repository creation. 
+
+---
+
+## 📅 Timeline & Progress
+
+* **[Day 1–2] Phase 1: Initial Setup & Data Acquisition** — **COMPLETE** ✅
+  * Created GitHub repository and initialized files.
+  * Sourced and aggregated raw datasets.
+* **[Current] Phase 2: Data Cleaning** — **IN PROGRESS** 🔄
+  * Handling missing values and removing duplicates.
+  * Standardizing data formats for analysis.
+
+---
+
+## Next Steps
+1. Finish data preprocessing and cleaning scripts.
+2. Begin exploratory data analysis (EDA).
 
 ## 📁 Folder Structure
 
