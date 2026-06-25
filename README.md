@@ -44,8 +44,8 @@ Fine-tuning TinyLlama on custom datasets to learn AI/ML fundamentals.
 
 ## 🔗 Connect
 - 🐙 GitHub: [@sanjai144](https://github.com/sanjai144)
-- 💼 LinkedIn: [Add your profile]
-- 📧 Email: your@email.com
+- 💼 LinkedIn: MUTHU SANJAI
+- 📧 Email: sanji.an144@gmail.com
 
 ---
 **Status**: Active learning | Started: June 2026
