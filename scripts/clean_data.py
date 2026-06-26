@@ -1,5 +1,5 @@
 import pandas as pd
-pd.read_csv("datasets.csv")
+data = pd.read_csv("datasets.csv")
 data.duplicated().sum()
 data.dropna(inplace = True)
 data.info()
